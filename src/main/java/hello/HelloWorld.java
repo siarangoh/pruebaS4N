@@ -19,6 +19,8 @@ public class HelloWorld {
 
             System.out.println("Cambio para el FEATUREDOS");
 
+            System.out.println("Nos fuimos pa produccion con este release");
+
             //EJEMPLO 3
 
             Trader raoul = new Trader("Raoul", "Cambridge");

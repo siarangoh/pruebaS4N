@@ -21,6 +21,8 @@ public class HelloWorld {
 
             System.out.println("Nos fuimos pa produccion con este release");
 
+            System.out.println("Corregimos un bug en este hotfix que habia en produccion");
+
             //EJEMPLO 3
 
             Trader raoul = new Trader("Raoul", "Cambridge");

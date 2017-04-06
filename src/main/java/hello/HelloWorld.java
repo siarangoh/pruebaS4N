@@ -17,6 +17,8 @@ public class HelloWorld {
 
             System.out.println("Cambio para el FEATUREUNO");
 
+            System.out.println("Cambio para el FEATUREDOS");
+
             //EJEMPLO 3
 
             Trader raoul = new Trader("Raoul", "Cambridge");
